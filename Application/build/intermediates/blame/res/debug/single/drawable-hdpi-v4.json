@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Sn@k3\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tile.9.png",
+        "source": "E:\\Sn@k3\\BasicNotifications\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "E:\\Sn@k3\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_alarm_black_18dp.png",
+        "source": "E:\\Sn@k3\\BasicNotifications\\Application\\src\\main\\res\\drawable-hdpi\\ic_alarm_black_18dp.png"
+    },
+    {
+        "merged": "E:\\Sn@k3\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Sn@k3\\BasicNotifications\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Sn@k3\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_alarm_black_36dp.png",
+        "source": "E:\\Sn@k3\\BasicNotifications\\Application\\src\\main\\res\\drawable-hdpi\\ic_alarm_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Sn@k3\\BasicNotifications\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stat_notification.png",
+        "source": "E:\\Sn@k3\\BasicNotifications\\Application\\src\\main\\res\\drawable-hdpi\\ic_stat_notification.png"
+    }
+]

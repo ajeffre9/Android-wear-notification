@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Sn@k3\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\Sn@k3\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_4f4de47a4f559b98bde31211809d9ff1237c759e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\owner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\Sn@k3\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_3373437db1c52a276f59f6b5c429020bcaaabd6f\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4892c34b6866f172cffae433b2ad7d53bd71bf52">
+        <dex dex="E:\Sn@k3\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_38ad75f3178f94f52f7e1ceebcd348bd2612fd8d\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="E:\Sn@k3\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.3.0_c2a03f3ab387c37cae18ebc73d94552eb24eee17\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\Sn@k3\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_d69ecb3b2dd2806f59c2308cf344934a7da8a18c\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="E:\Sn@k3\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_3eed42cd332ee7a602ee7899104c32b94345fb7b\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6be7354625ccde41222581167178d32f33c561bc">
+        <dex dex="E:\Sn@k3\BasicNotifications\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_eb967a7525674b97ccd3c2a84ecdb9cc1092e964\classes.dex" />
+    </item>
+
+</items>
